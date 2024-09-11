@@ -1,4 +1,4 @@
-<img src="https://s3.ezgif.com/tmp/ezgif-3-34acecd849.webp" alt="Masterhead" width="100%">
+<img src="https://64.media.tumblr.com/3b56d3e63eeff01cda3004bfb867efc6/f3042d64adb87bd0-2c/s2048x3072/511c3589986259008367c5d7822938143045988c.gifv" alt="Masterhead" width="100%">
 <h1 align="center">Hi 👋, I'm Angela Marie Abrea</h1>
 <h3 align="center">Just a girl who codes</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/926834af30c51181e54111f1dbaadcb6/c2a0d13ab96f6b85-dc/s100x200/2052c882f30931a60912bd62de57fed98c8533f5.gifv">
