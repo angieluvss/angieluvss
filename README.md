@@ -1,7 +1,7 @@
 [![Masterhead](https://i.pinimg.com/564x/e5/45/02/e545025c5f5e9875f32f1e1d7602f062.jpg)]
 <h1 align="center">Hi 👋, I'm Angela Marie Abrea</h1>
 <h3 align="center">Just a girl who who codes</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://i.pinimg.com/originals/18/94/fa/1894fafcf6da5c8f2778cc0b3a253814.gif”>
+<img align=“right” alt=“Coding” width=“400” src=“https://64.media.tumblr.com/dfd1ee800ea5d43845f701fb9f647d1f/fab102b37c1f9bfb-e1/s100x200/3698e37538162e4bbd04afb59327e6fff6f0d617.gifv”>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
