@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Angela Marie Abrea</h1>
 <h3 align="center">Just a girl who codes</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/angieluvss/volunteering-website">Full-stack volunteering website</a>
+- 🔭 I’m currently working on <a href="https://github.com/angieluvss/volunteering-fullstack">Full-stack volunteering website</a>
 
 - 👨‍💻 All of my projects are available at [angieluvss.github.io](https://angieluvss.github.io/)
 
