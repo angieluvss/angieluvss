@@ -14,19 +14,12 @@
 - 🍓 Currently learning **[your focus, e.g., MERN stack, AI, Python]**
 - 🌈 Favorite color: **Pastel Pink!**
 - ☕ Fun fact: I can't code without a cup of matcha latte! 🍵  
-</td>
-</tr>
-</table>
-
----
 
 ## 🐰✨ My Cute Tech Stack ✨🐰
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb"/>
 </p>
-
----
 
 ## ✨🎀 My GitHub Stats 🎀✨
 
@@ -37,6 +30,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=sakura" width="400"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
