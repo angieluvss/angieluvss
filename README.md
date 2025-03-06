@@ -47,16 +47,6 @@
 
 ---
 
-## 🎀🐰 Fun GIFs 🐰🎀
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>  
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="200"/>  
-  <img src="https://media.giphy.com/media/J93sVmfYBtsRi/giphy.gif" width="200"/>
-</p>
-
----
-
 <p align="center">
   🌸✨ *Thanks for stopping by! Let's code something cute together!* ✨🌸
 </p>
