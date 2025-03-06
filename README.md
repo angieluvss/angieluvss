@@ -1,46 +1,65 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=FADADD&height=150&section=header&text=Welcome%20to%20my%20GitHub!%20✨&fontSize=30&fontColor=8B5E83)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=150&section=header&text=Hello!%20👋%20I'm%20[Your%20Name]!%20✨&fontSize=30&fontColor=FF69B4)
 
-## 🌸 About Me 🌸
+<table>
+<tr>
+<td>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
+</td>
+<td>
 
-🌷 **Hi there! I'm [Your Name]**  
-🐱 A passionate developer who loves cute aesthetics!  
-🎀 Currently learning **[your focus, e.g., MERN stack, AI, Python]**  
-☕ Fun fact: I can't code without a cup of coffee!  
+## 💖 About Me 💖
+
+- 🎀 **Hi there! I'm [Your Name]**
+- 🐱 A kawaii developer who loves cute aesthetics!
+- 🍓 Currently learning **[your focus, e.g., MERN stack, AI, Python]**
+- 🌈 Favorite color: **Pastel Pink!**
+- ☕ Fun fact: I can't code without a cup of matcha latte! 🍵  
+</td>
+</tr>
+</table>
 
 ---
 
-### 🐻‍❄️ My Tech Stack 💻
-
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
-
----
-
-### 🎀 GitHub Stats 🎀
+## 🐰✨ My Cute Tech Stack ✨🐰
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="400"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb"/>
 </p>
 
 ---
 
-### 🎐 Socials 🎐
+## ✨🎀 My GitHub Stats 🎀✨
 
-🌸 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-🐾 [Twitter](https://twitter.com/your-twitter/)  
-💌 [Portfolio](https://your-portfolio.com/)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=sakura" width="400"/>  
+</p>
 
----
-
-### 🎠 Fun GIFs 🎠
-
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=sakura" width="400"/>
+</p>
 
 ---
 
-🌸 *Thanks for stopping by! Let's code something cute together!* 🌸
+## 🌸💌 Connect with Me 💌🌸
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🎀🐰 Fun GIFs 🐰🎀
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>  
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="200"/>  
+  <img src="https://media.giphy.com/media/J93sVmfYBtsRi/giphy.gif" width="200"/>
+</p>
+
+---
+
+<p align="center">
+  🌸✨ *Thanks for stopping by! Let's code something cute together!* ✨🌸
+</p>
